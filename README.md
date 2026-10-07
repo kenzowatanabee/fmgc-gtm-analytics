@@ -6,13 +6,13 @@ Welcome to the **FMCG Distribution & Business KPIs Knowledge Base**. This reposi
 
 ## 🗂️ Table of Contents
 
-1. [Key Distribution Metrics & Glossary](./docs/01-metrics-and-kpis.md)
-2. [Calculating Weighted Distribution (WD / DP)](./docs/02-weighted-distribution-calculation.md)
-3. [Weighted Averages vs. Averages of Averages](./docs/03-weighted-averages-and-pricing.md)
-4. [Assortment Breadth: SKUs per Store](./docs/04-skus-per-store-and-assortment.md)
-5. [Advanced Distribution Analytics & Diagnostics](./docs/05-advanced-distribution-analytics.md)
-6. [Mermaid System Diagram](./docs/06-gtm-system-diagram.md)
 
+1. [Key Distribution Metrics & Glossary](docs/01-metrics-and-kpis.md)
+2. [Calculating Weighted Distribution (WD / DP)](docs/02-weighted-distribution-calculation.md)
+3. [Weighted Averages vs. Averages of Averages](docs/03-weighted-averages-and-pricing.md)
+4. [Assortment Breadth: SKUs per Store](docs/04-skus-per-store-and-assortment.md)
+5. [Advanced Distribution Analytics & Diagnostics](docs/05-advanced-distribution-analytics.md)
+6. [Mermaid System Diagram](docs/06-gtm-system-diagram.md)
 ---
 
 ## 🚀 Quick Start Guide
